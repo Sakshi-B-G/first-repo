@@ -1,2 +1,3 @@
 This file is created for GitHub lab practice.
 Learning version control using Git.
+Practicing commits and updates.
